@@ -1,0 +1,49 @@
+<!-- <div className='bcci-card'>
+    <Card style={{ width: '18rem' } }>
+        <Card.Img variant="top"
+            src="https://cricxtasy.com/static/c1e/client/95405/migrated/62132a8008f603a087fd63f7630822e4.jpeg" />
+        <Card.Body>
+            <Card.Title> CEO : Hemang Amin</Card.Title>
+            <Card.Text>
+                A role he was appointed to in July 2020, taking over for the previous CEO, Rahul Johri.
+            </Card.Text>
+            {/* <Button variant="primary">Go somewhere</Button> */}
+        </Card.Body>
+    </Card>
+    <Card style={{ width: '18rem' }}>
+        <Card.Img variant="top"
+            src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202012/rajivshukla_1200x768.jpeg?size=690:388" />
+        <Card.Body>
+            <Card.Title>Vice president : Rajeev Shukla</Card.Title>
+            <Card.Text>
+                Minister of State in the Ministry of Parliamentary Affairs and Planning, a committed party man for
+                Indian National Congress, IPL Chairman, journalist, political commentator and television host- Rajeev
+                Shukla.
+            </Card.Text>
+            {/* <Button variant="primary">Go somewhere</Button> */}
+        </Card.Body>
+    </Card>
+    <Card style={{ width: '18rem' }}>
+        <Card.Img variant="top" src="https://avaaz24.com/wp-content/uploads/2021/09/Jay_Shah.jpg" />
+        <Card.Body>
+            <Card.Title>Secretary : Jay Shah</Card.Title>
+            <Card.Text>
+                Jay Shah is the secretary of the Board of Control for Cricket in India. He is also the son of the second
+                most powerful man in India today, the union home minister, Amit Shah.
+            </Card.Text>
+            {/* <Button variant="primary">Go somewhere</Button> */}
+        </Card.Body>
+    </Card>
+    <Card style={{ width: '18rem' }}>
+        <Card.Img variant="top"
+            src="https://crickettimes.com/wp-content/uploads/2022/06/Rahul-Dravid-on-challenges-as-Indias-head-coach.jpg" />
+        <Card.Body>
+            <Card.Title> Men's coach : Rahul Dravid</Card.Title>
+            <Card.Text>
+                Dravid came in as head coach of Indian men's cricket team in November 2021. Since then, India have
+                achieved a few things and lost some big and key series and tournaments.
+            </Card.Text>
+            {/* <Button variant="primary">Go somewhere</Button> */}
+        </Card.Body>
+    </Card>
+</div> -->

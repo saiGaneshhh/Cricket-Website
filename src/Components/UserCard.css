@@ -1,0 +1,20 @@
+.card{
+    width: fit-content;
+    box-shadow: rgb(223, 116, 223) 0px 3px 8px;
+    margin-bottom: 30px;
+    /* color: black; */
+    background-color: gray;
+    
+}
+b{
+    color: Gold;
+}
+p{
+    color: white;
+}
+.card-text{
+    color: black;
+}
+.d-block{
+    height: 500px;
+}

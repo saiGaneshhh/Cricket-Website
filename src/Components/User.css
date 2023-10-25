@@ -1,0 +1,44 @@
+b {
+    color: gold;
+}
+
+p {
+    margin-top: 70px;
+    color: white;
+}
+
+.info {
+    margin-left: 30px;
+    /* display: flex;
+    justify-content: start; */
+    margin: 30px;
+    flex-wrap: wrap;
+
+
+}
+
+h1 {
+    color: gold;
+}
+
+h2 {
+    color: skyblue;
+}
+
+.name {
+    text-align: center;
+}
+.main1{
+    text-align: center;
+    color: black;
+}
+b{
+    color: white;
+}
+p{
+    color: black;
+}
+.bcci-card{
+    display: flex;
+    justify-content: space-around;
+}
